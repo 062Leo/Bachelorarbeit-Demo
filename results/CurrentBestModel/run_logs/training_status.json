@@ -1,0 +1,65 @@
+{
+    "ParkourAgent": {
+        "checkpoints": [
+            {
+                "steps": 191999951,
+                "file_path": "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-191999951.onnx",
+                "reward": 79.37023374911657,
+                "creation_time": 1750862678.067542,
+                "auxillary_file_paths": [
+                    "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-191999951.pt"
+                ]
+            },
+            {
+                "steps": 192000149,
+                "file_path": "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-192000149.onnx",
+                "reward": 79.29985552046034,
+                "creation_time": 1750862678.686611,
+                "auxillary_file_paths": [
+                    "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-192000149.pt"
+                ]
+            },
+            {
+                "steps": 192499999,
+                "file_path": "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-192499999.onnx",
+                "reward": 79.43696178501916,
+                "creation_time": 1750863433.1739862,
+                "auxillary_file_paths": [
+                    "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-192499999.pt"
+                ]
+            },
+            {
+                "steps": 192999972,
+                "file_path": "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-192999972.onnx",
+                "reward": 77.44996353718037,
+                "creation_time": 1750864088.7508154,
+                "auxillary_file_paths": [
+                    "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-192999972.pt"
+                ]
+            },
+            {
+                "steps": 193000127,
+                "file_path": "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-193000127.onnx",
+                "reward": 77.47419227952155,
+                "creation_time": 1750864089.371216,
+                "auxillary_file_paths": [
+                    "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-193000127.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 193000127,
+            "file_path": "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent.onnx",
+            "reward": 77.47419227952155,
+            "creation_time": 1750864089.371216,
+            "auxillary_file_paths": [
+                "results\\GPUnewRays_LvlFix_AllLevelV3FixTags\\ParkourAgent\\ParkourAgent-193000127.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.1+cu121"
+    }
+}

@@ -1,0 +1,162 @@
+[2025-06-17 09:49:58] 🔁 Neues Training mit max_steps=1000000, learning_rate=0.0005, beta=0.08, epsilon=0.2
+
+[2025-06-17 10:08:58] 🔁 Neues Training mit max_steps=2000000, learning_rate=0.0006, beta=0.08064, epsilon=0.2008
+
+[2025-06-17 10:29:59] 🔁 Neues Training mit max_steps=3000000, learning_rate=0.0007, beta=0.08128, epsilon=0.2016
+
+[2025-06-17 10:52:59] 🔁 Neues Training mit max_steps=4000000, learning_rate=0.00078, beta=0.0816, epsilon=0.202
+
+[2025-06-17 10:54:59] 🔁 Neues Training mit max_steps=5000000, learning_rate=0.00086, beta=0.08192, epsilon=0.2024
+
+[2025-06-17 11:40:00] 🔁 Neues Training mit max_steps=6000000, learning_rate=0.00092, beta=0.08216, epsilon=0.2027
+
+[2025-06-17 12:01:00] 🔁 Neues Training mit max_steps=7000000, learning_rate=0.00098, beta=0.0824, epsilon=0.203
+
+[2025-06-17 12:18:00] 🔁 Neues Training mit max_steps=8000000, learning_rate=0.00102, beta=0.08256, epsilon=0.2032
+
+[2025-06-17 12:35:00] 🔁 Neues Training mit max_steps=9000000, learning_rate=0.00106, beta=0.08272, epsilon=0.2034
+
+[2025-06-17 12:51:00] 🔁 Neues Training mit max_steps=10000000, learning_rate=0.00108, beta=0.0828, epsilon=0.2035
+
+[2025-06-17 13:07:01] 🔁 Neues Training mit max_steps=11000000, learning_rate=0.0011, beta=0.08288, epsilon=0.2036
+
+[2025-06-17 13:23:01] 🔁 Neues Training mit max_steps=12000000, learning_rate=0.00111, beta=0.082872, epsilon=0.20359
+
+[2025-06-17 13:39:01] 🔁 Neues Training mit max_steps=13000000, learning_rate=0.00112, beta=0.082864, epsilon=0.20358
+
+[2025-06-17 13:55:01] 🔁 Neues Training mit max_steps=14000000, learning_rate=0.00113, beta=0.082856, epsilon=0.20357
+
+[2025-06-17 14:11:01] 🔁 Neues Training mit max_steps=15000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 14:27:01] 🔁 Neues Training mit max_steps=16000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 14:43:01] 🔁 Neues Training mit max_steps=17000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 15:00:02] 🔁 Neues Training mit max_steps=18000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 15:21:02] 🔁 Neues Training mit max_steps=19000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 15:47:02] 🔁 Neues Training mit max_steps=20000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 16:10:02] 🔁 Neues Training mit max_steps=21000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 16:33:03] 🔁 Neues Training mit max_steps=22000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 16:59:03] 🔁 Neues Training mit max_steps=23000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 17:24:03] 🔁 Neues Training mit max_steps=24000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 17:43:03] 🔁 Neues Training mit max_steps=25000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 18:00:04] 🔁 Neues Training mit max_steps=26000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 18:17:04] 🔁 Neues Training mit max_steps=27000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 18:34:04] 🔁 Neues Training mit max_steps=28000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 18:51:04] 🔁 Neues Training mit max_steps=29000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 19:08:04] 🔁 Neues Training mit max_steps=30000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 19:25:04] 🔁 Neues Training mit max_steps=31000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 19:42:04] 🔁 Neues Training mit max_steps=32000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 19:59:05] 🔁 Neues Training mit max_steps=33000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 20:16:05] 🔁 Neues Training mit max_steps=34000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 20:33:05] 🔁 Neues Training mit max_steps=35000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 20:50:05] 🔁 Neues Training mit max_steps=36000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 21:07:05] 🔁 Neues Training mit max_steps=37000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 21:24:05] 🔁 Neues Training mit max_steps=38000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 21:41:05] 🔁 Neues Training mit max_steps=39000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 21:59:06] 🔁 Neues Training mit max_steps=40000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 22:17:06] 🔁 Neues Training mit max_steps=41000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 22:34:06] 🔁 Neues Training mit max_steps=42000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 22:51:06] 🔁 Neues Training mit max_steps=43000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 23:08:06] 🔁 Neues Training mit max_steps=44000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 23:25:06] 🔁 Neues Training mit max_steps=45000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-17 23:48:07] 🔁 Neues Training mit max_steps=46000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 00:07:07] 🔁 Neues Training mit max_steps=47000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 00:26:07] 🔁 Neues Training mit max_steps=48000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 00:45:07] 🔁 Neues Training mit max_steps=49000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 01:04:08] 🔁 Neues Training mit max_steps=50000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 01:23:08] 🔁 Neues Training mit max_steps=51000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 01:41:08] 🔁 Neues Training mit max_steps=52000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 02:00:08] 🔁 Neues Training mit max_steps=53000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 02:19:08] 🔁 Neues Training mit max_steps=54000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 02:38:08] 🔁 Neues Training mit max_steps=55000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 02:57:08] 🔁 Neues Training mit max_steps=56000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 03:16:09] 🔁 Neues Training mit max_steps=57000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 03:34:09] 🔁 Neues Training mit max_steps=58000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 03:53:09] 🔁 Neues Training mit max_steps=59000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 04:12:09] 🔁 Neues Training mit max_steps=60000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 04:31:09] 🔁 Neues Training mit max_steps=61000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 04:49:09] 🔁 Neues Training mit max_steps=62000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 05:08:10] 🔁 Neues Training mit max_steps=63000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 05:27:10] 🔁 Neues Training mit max_steps=64000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 05:46:10] 🔁 Neues Training mit max_steps=65000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 06:05:10] 🔁 Neues Training mit max_steps=66000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 06:24:10] 🔁 Neues Training mit max_steps=67000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 06:43:11] 🔁 Neues Training mit max_steps=68000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 07:02:11] 🔁 Neues Training mit max_steps=69000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 07:21:11] 🔁 Neues Training mit max_steps=70000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 07:40:11] 🔁 Neues Training mit max_steps=71000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 07:59:11] 🔁 Neues Training mit max_steps=72000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 08:18:11] 🔁 Neues Training mit max_steps=73000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 08:37:12] 🔁 Neues Training mit max_steps=74000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 08:56:12] 🔁 Neues Training mit max_steps=75000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 09:15:12] 🔁 Neues Training mit max_steps=76000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 09:34:12] 🔁 Neues Training mit max_steps=77000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 09:53:12] 🔁 Neues Training mit max_steps=78000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 10:12:12] 🔁 Neues Training mit max_steps=79000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 10:31:13] 🔁 Neues Training mit max_steps=80000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+
+[2025-06-18 10:48:35] 🔁 Neues Training mit max_steps=81000000, learning_rate=0.00114, beta=0.082848, epsilon=0.20356
+

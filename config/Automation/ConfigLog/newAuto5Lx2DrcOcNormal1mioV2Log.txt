@@ -1,0 +1,10 @@
+[2025-06-16 23:27:19] 🔁 Neues Training mit max_steps=9000000, learning_rate=0.0027, beta=0.195, epsilon=0.315
+
+[2025-06-16 23:54:19] 🔁 Neues Training mit max_steps=10000000, learning_rate=0.0029, beta=0.205, epsilon=0.325
+
+[2025-06-17 00:20:20] 🔁 Neues Training mit max_steps=11000000, learning_rate=0.0031, beta=0.215, epsilon=0.335
+
+[2025-06-17 00:46:20] 🔁 Neues Training mit max_steps=12000000, learning_rate=0.0033, beta=0.225, epsilon=0.345
+
+[2025-06-17 01:11:20] 🔁 Neues Training mit max_steps=13000000, learning_rate=0.0035, beta=0.235, epsilon=0.355
+
