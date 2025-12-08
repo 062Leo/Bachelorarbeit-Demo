@@ -1,0 +1,83 @@
+[2025-06-19 12:38:54] 🔁 Neues Training mit max_steps=1000000, learning_rate=0.0005, beta=0.08, epsilon=0.2
+[2025-06-19 12:38:54] 📛 Aktuelle Trainings-ID: GPUnewRays_LvlFix_AllLevelV1
+
+[2025-06-19 13:02:55] 🔁 Neues Training mit max_steps=2000000, learning_rate=0.00057, beta=0.0824, epsilon=0.203
+
+[2025-06-19 13:24:55] 🔁 Neues Training mit max_steps=3000000, learning_rate=0.00064, beta=0.0848, epsilon=0.206
+
+[2025-06-19 13:44:55] 🔁 Neues Training mit max_steps=4000000, learning_rate=0.00069, beta=0.0864, epsilon=0.208
+
+[2025-06-19 14:04:55] 🔁 Neues Training mit max_steps=5000000, learning_rate=0.00074, beta=0.088, epsilon=0.21
+
+[2025-06-19 14:22:55] 🔁 Neues Training mit max_steps=6000000, learning_rate=0.00077, beta=0.0888, epsilon=0.211
+
+[2025-06-19 14:42:55] 🔁 Neues Training mit max_steps=7000000, learning_rate=0.0008, beta=0.0896, epsilon=0.212
+
+[2025-06-19 15:02:55] 🔁 Neues Training mit max_steps=8000000, learning_rate=0.00082, beta=0.09032, epsilon=0.2129
+
+[2025-06-19 15:20:55] 🔁 Neues Training mit max_steps=9000000, learning_rate=0.00084, beta=0.09104, epsilon=0.2138
+
+[2025-06-19 15:40:55] 🔁 Neues Training mit max_steps=10000000, learning_rate=0.00085, beta=0.09168, epsilon=0.2146
+
+[2025-06-19 15:58:55] 🔁 Neues Training mit max_steps=11000000, learning_rate=0.00086, beta=0.09232, epsilon=0.2154
+
+[2025-06-19 16:16:55] 🔁 Neues Training mit max_steps=12000000, learning_rate=0.000865, beta=0.09152, epsilon=0.2144
+
+[2025-06-19 16:36:56] 🔁 Neues Training mit max_steps=13000000, learning_rate=0.00087, beta=0.09072, epsilon=0.2134
+
+[2025-06-19 16:54:56] 🔁 Neues Training mit max_steps=14000000, learning_rate=0.000875, beta=0.08992, epsilon=0.2124
+
+[2025-06-19 17:12:56] 🔁 Neues Training mit max_steps=15000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 17:30:56] 🔁 Neues Training mit max_steps=16000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 17:48:56] 🔁 Neues Training mit max_steps=17000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 18:06:56] 🔁 Neues Training mit max_steps=18000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 18:24:56] 🔁 Neues Training mit max_steps=19000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 18:42:56] 🔁 Neues Training mit max_steps=20000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 19:02:56] 🔁 Neues Training mit max_steps=21000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 19:20:56] 🔁 Neues Training mit max_steps=22000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 19:40:56] 🔁 Neues Training mit max_steps=23000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 19:58:57] 🔁 Neues Training mit max_steps=24000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 20:16:57] 🔁 Neues Training mit max_steps=25000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 20:34:57] 🔁 Neues Training mit max_steps=26000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 20:54:57] 🔁 Neues Training mit max_steps=27000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 21:12:57] 🔁 Neues Training mit max_steps=28000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 21:30:57] 🔁 Neues Training mit max_steps=29000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 21:48:57] 🔁 Neues Training mit max_steps=30000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 22:06:57] 🔁 Neues Training mit max_steps=31000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 22:24:57] 🔁 Neues Training mit max_steps=32000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 22:44:57] 🔁 Neues Training mit max_steps=33000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 23:02:58] 🔁 Neues Training mit max_steps=34000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 23:20:58] 🔁 Neues Training mit max_steps=35000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 23:38:58] 🔁 Neues Training mit max_steps=36000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-19 23:56:58] 🔁 Neues Training mit max_steps=37000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-20 00:14:58] 🔁 Neues Training mit max_steps=38000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-20 00:32:58] 🔁 Neues Training mit max_steps=39000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-20 00:50:58] 🔁 Neues Training mit max_steps=40000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+
+[2025-06-20 01:10:58] 🔁 Neues Training mit max_steps=41000000, learning_rate=0.00088, beta=0.08912, epsilon=0.2114
+

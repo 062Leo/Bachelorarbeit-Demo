@@ -1,0 +1,66 @@
+
+venv\Scripts\activate
+tensorboard --logdir results
+
+
+1. start Venv im root: 
+venv\Scripts\activate
+
+2. Run Automatic training :
+python Training_Automation.py
+
+
+3. View results with TensorBoard:
+tensorboard --logdir results
+
+4. start manual training:
+
+mlagents-learn config\**.yaml  --run-id=(Name)  
+
+
+Extensions for (4. manual Training) command :
+
+1.  --initialize-from=(name_in_Results_Folder)   // von einem vorherigen Training starten/ableiten
+
+
+2. --inference  // nur ausführen, kein Training
+
+3. --force  // überschreibt vorhandene RunID Ordner
+
+4. --resume  // setzt ein vorheriges Training fort
+
+5. --env="Builds\**.exe" //Training mit Build, anstatt im Editor
+
+
+
+
+Bsp: 
+
+
+//Neues Training mit build
+
+mlagents-learn config\**.yaml --run-id=(name) --env="Builds\**.exe" 
+
+
+
+
+
+
+//fertiges Modell laufen lassen, ohne Training, zum Generalisierungsfähigkeit testen  beim Generalisierungslevel
+
+mlagents-learn config\Generalisierung\Generalisierung.yaml --run-id=(Name) --env="Builds\**.exe" --inference --initialize-from=(modelNameDasManTesenill)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

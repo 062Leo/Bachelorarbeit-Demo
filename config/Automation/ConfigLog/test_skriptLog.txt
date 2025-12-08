@@ -1,0 +1,38 @@
+[2025-07-23 20:09:40] 🔁 Neues Training mit max_steps=1000000, learning_rate=0.0005, beta=0.08, epsilon=0.2
+[2025-07-23 20:09:40] 📛 Aktuelle Trainings-ID: test_skript
+
+[2025-07-23 20:09:51] 🔁 Neues Training mit max_steps=2000000, learning_rate=0.00058, beta=0.0824, epsilon=0.203
+
+[2025-07-23 20:09:51] 🔁 Neues Training mit max_steps=3000000, learning_rate=0.00066, beta=0.0848, epsilon=0.206
+
+[2025-07-23 20:09:52] 🔁 Neues Training mit max_steps=4000000, learning_rate=0.00072, beta=0.0864, epsilon=0.208
+
+[2025-07-23 20:09:52] 🔁 Neues Training mit max_steps=5000000, learning_rate=0.00078, beta=0.088, epsilon=0.21
+
+[2025-07-23 20:09:52] 🔁 Neues Training mit max_steps=6000000, learning_rate=0.00082, beta=0.0888, epsilon=0.211
+
+[2025-07-23 20:09:53] 🔁 Neues Training mit max_steps=7000000, learning_rate=0.00086, beta=0.0896, epsilon=0.212
+
+[2025-07-23 20:09:53] 🔁 Neues Training mit max_steps=8000000, learning_rate=0.00088, beta=0.09032, epsilon=0.2129
+
+[2025-07-23 20:09:53] 🔁 Neues Training mit max_steps=9000000, learning_rate=0.0009, beta=0.09104, epsilon=0.2138
+
+[2025-07-23 20:09:53] 🔁 Neues Training mit max_steps=10000000, learning_rate=0.00091, beta=0.09168, epsilon=0.2146
+
+[2025-07-23 20:12:40] Neues Training mit max_steps=10000000, learning_rate=0.00091, beta=0.09168, epsilon=0.2146
+[2025-07-23 20:12:40] Aktuelle Trainings-ID: test_skript
+
+[2025-07-23 20:12:56] Neues Training mit max_steps=11000000, learning_rate=0.00092, beta=0.09232, epsilon=0.2154
+
+[2025-07-23 20:12:59] Neues Training mit max_steps=12000000, learning_rate=0.000925, beta=0.09152, epsilon=0.2144
+
+[2025-07-23 20:12:59] Neues Training mit max_steps=13000000, learning_rate=0.00093, beta=0.09072, epsilon=0.2134
+
+[2025-07-23 20:13:02] Neues Training mit max_steps=14000000, learning_rate=0.000935, beta=0.08992, epsilon=0.2124
+
+[2025-07-23 20:13:02] Neues Training mit max_steps=15000000, learning_rate=0.00094, beta=0.08912, epsilon=0.2114
+
+[2025-07-23 20:13:03] Neues Training mit max_steps=16000000, learning_rate=0.00094, beta=0.08912, epsilon=0.2114
+
+[2025-07-23 20:13:03] Neues Training mit max_steps=17000000, learning_rate=0.00094, beta=0.08912, epsilon=0.2114
+

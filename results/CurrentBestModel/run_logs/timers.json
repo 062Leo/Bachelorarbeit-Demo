@@ -1,0 +1,944 @@
+{
+    "name": "root",
+    "gauges": {
+        "ParkourAgent.Policy.Entropy.mean": {
+            "value": 2.459796190261841,
+            "min": 2.4356298446655273,
+            "max": 2.4783575534820557,
+            "count": 100
+        },
+        "ParkourAgent.Policy.Entropy.sum": {
+            "value": 23599.28515625,
+            "min": 18082.025390625,
+            "max": 71235.40625,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level12.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level12.EpisodesCount.sum": {
+            "value": 32.0,
+            "min": 16.0,
+            "max": 100.0,
+            "count": 100
+        },
+        "ParkourAgent.WinDeathRatio.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.WinDeathRatio.EpisodesCount.sum": {
+            "value": 228.0,
+            "min": 192.0,
+            "max": 892.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level5.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level5.EpisodesCount.sum": {
+            "value": 15.0,
+            "min": 2.0,
+            "max": 48.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level3.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level3.EpisodesCount.sum": {
+            "value": 12.0,
+            "min": 6.0,
+            "max": 67.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level11.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level11.EpisodesCount.sum": {
+            "value": 71.0,
+            "min": 42.0,
+            "max": 263.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level2.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level2.EpisodesCount.sum": {
+            "value": 19.0,
+            "min": 12.0,
+            "max": 98.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level4.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level4.EpisodesCount.sum": {
+            "value": 9.0,
+            "min": 1.0,
+            "max": 44.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level1.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level1.EpisodesCount.sum": {
+            "value": 28.0,
+            "min": 7.0,
+            "max": 97.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level7.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level7.EpisodesCount.sum": {
+            "value": 13.0,
+            "min": 1.0,
+            "max": 46.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level6.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level6.EpisodesCount.sum": {
+            "value": 7.0,
+            "min": 4.0,
+            "max": 43.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level9.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level9.EpisodesCount.sum": {
+            "value": 9.0,
+            "min": 1.0,
+            "max": 42.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level8.EpisodesCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level8.EpisodesCount.sum": {
+            "value": 13.0,
+            "min": 2.0,
+            "max": 44.0,
+            "count": 100
+        },
+        "ParkourAgent.Environment.EpisodeLength.mean": {
+            "value": 48.11274509803921,
+            "min": 30.94888178913738,
+            "max": 56.206896551724135,
+            "count": 100
+        },
+        "ParkourAgent.Environment.EpisodeLength.sum": {
+            "value": 9815.0,
+            "min": 9509.0,
+            "max": 10069.0,
+            "count": 100
+        },
+        "ParkourAgent.WinDeathRatio.DiedCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.WinDeathRatio.DiedCount.sum": {
+            "value": 20.0,
+            "min": 6.0,
+            "max": 32.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level2.DiedCount.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.10344827586206896,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level2.DiedCount.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 3.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level2.SurvivedCount.mean": {
+            "value": 1.0,
+            "min": 0.896551724137931,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level2.SurvivedCount.sum": {
+            "value": 19.0,
+            "min": 12.0,
+            "max": 55.0,
+            "count": 100
+        },
+        "ParkourAgent.Agent.JumpCount.mean": {
+            "value": 1.719298245614035,
+            "min": 0.6647398843930635,
+            "max": 3.9375,
+            "count": 100
+        },
+        "ParkourAgent.Agent.JumpCount.sum": {
+            "value": 392.0,
+            "min": 163.0,
+            "max": 756.0,
+            "count": 100
+        },
+        "ParkourAgent.Agent.Handle3Dmove.mean": {
+            "value": -2.40721622370837,
+            "min": -4.237684724774833,
+            "max": -1.22016185817088,
+            "count": 100
+        },
+        "ParkourAgent.Agent.Handle3Dmove.sum": {
+            "value": -548.8452990055084,
+            "min": -813.6354671567678,
+            "max": -376.6880042999983,
+            "count": 100
+        },
+        "ParkourAgent.Agent.wallReward.mean": {
+            "value": -0.5132413579706561,
+            "min": -0.5780544941241924,
+            "max": 0.0,
+            "count": 100
+        },
+        "ParkourAgent.Agent.wallReward.sum": {
+            "value": -117.01902961730957,
+            "min": -120.83833312988281,
+            "max": 0.0,
+            "count": 100
+        },
+        "ParkourAgent.Agent.sumProgressReward.mean": {
+            "value": 14.522514483907766,
+            "min": 12.308333651101078,
+            "max": 15.674810819948712,
+            "count": 100
+        },
+        "ParkourAgent.Agent.sumProgressReward.sum": {
+            "value": 3311.1333023309708,
+            "min": 2651.0256485939026,
+            "max": 4391.472205162048,
+            "count": 100
+        },
+        "ParkourAgent.Agent.checkDistanceReward.mean": {
+            "value": 3.5526315789473686,
+            "min": 2.341040462427746,
+            "max": 4.3359375,
+            "count": 100
+        },
+        "ParkourAgent.Agent.checkDistanceReward.sum": {
+            "value": 810.0,
+            "min": 722.5,
+            "max": 927.5,
+            "count": 100
+        },
+        "ParkourAgent.Run.AverageRunDurationMs.mean": {
+            "value": 1389.8971396998356,
+            "min": 829.8940757115682,
+            "max": 1634.0815181634364,
+            "count": 100
+        },
+        "ParkourAgent.Run.AverageRunDurationMs.sum": {
+            "value": 316896.5478515625,
+            "min": 159339.6625366211,
+            "max": 475349.98846435547,
+            "count": 100
+        },
+        "ParkourAgent.Run.RunPercentage.mean": {
+            "value": 74.60128380959495,
+            "min": 66.54305982589722,
+            "max": 81.1861895412379,
+            "count": 100
+        },
+        "ParkourAgent.Run.RunPercentage.sum": {
+            "value": 17009.092708587646,
+            "min": 12776.267486572266,
+            "max": 28090.42158126831,
+            "count": 100
+        },
+        "ParkourAgent.Run.RunTogether.mean": {
+            "value": 198.7171052631579,
+            "min": 135.18208092485548,
+            "max": 231.66666666666666,
+            "count": 100
+        },
+        "ParkourAgent.Run.RunTogether.sum": {
+            "value": 90615.0,
+            "min": 83147.0,
+            "max": 94612.0,
+            "count": 100
+        },
+        "ParkourAgent.Run.TrueSteps.mean": {
+            "value": 177.5438596491228,
+            "min": 127.34393063583815,
+            "max": 207.0871794871795,
+            "count": 100
+        },
+        "ParkourAgent.Run.TrueSteps.sum": {
+            "value": 40480.0,
+            "min": 33551.0,
+            "max": 44441.0,
+            "count": 100
+        },
+        "ParkourAgent.Run.TotalSteps.mean": {
+            "value": 219.890350877193,
+            "min": 143.02023121387282,
+            "max": 258.3125,
+            "count": 100
+        },
+        "ParkourAgent.Run.TotalSteps.sum": {
+            "value": 50135.0,
+            "min": 48553.0,
+            "max": 51427.0,
+            "count": 100
+        },
+        "ParkourAgent.Agent.distPenalty.mean": {
+            "value": 0.9046518318355083,
+            "min": 0.5033247619867325,
+            "max": 1.4789025144917625,
+            "count": 100
+        },
+        "ParkourAgent.Agent.distPenalty.sum": {
+            "value": 18.093036636710167,
+            "min": 3.221959337592125,
+            "max": 34.53060740232468,
+            "count": 100
+        },
+        "ParkourAgent.Time.DeathTime_Sec.mean": {
+            "value": 2.117998504638672,
+            "min": 1.048569815499442,
+            "max": 3.578334172566732,
+            "count": 100
+        },
+        "ParkourAgent.Time.DeathTime_Sec.sum": {
+            "value": 42.35997009277344,
+            "min": 7.339988708496094,
+            "max": 68.7199821472168,
+            "count": 100
+        },
+        "ParkourAgent.Time.TotalEpisodeSeconds.mean": {
+            "value": 4.39780687030993,
+            "min": 2.844046174101747,
+            "max": 5.156979028135538,
+            "count": 100
+        },
+        "ParkourAgent.Time.TotalEpisodeSeconds.sum": {
+            "value": 1002.6999664306641,
+            "min": 971.0599899291992,
+            "max": 1028.5397644042969,
+            "count": 100
+        },
+        "ParkourAgent.Step.mean": {
+            "value": 192999972.0,
+            "min": 192009953.0,
+            "max": 192999972.0,
+            "count": 100
+        },
+        "ParkourAgent.Step.sum": {
+            "value": 192999972.0,
+            "min": 192009953.0,
+            "max": 192999972.0,
+            "count": 100
+        },
+        "ParkourAgent.Policy.ExtrinsicValueEstimate.mean": {
+            "value": 58.79461669921875,
+            "min": 53.25397491455078,
+            "max": 65.78894805908203,
+            "count": 100
+        },
+        "ParkourAgent.Policy.ExtrinsicValueEstimate.sum": {
+            "value": 12052.896484375,
+            "min": 9319.4453125,
+            "max": 20328.78515625,
+            "count": 100
+        },
+        "ParkourAgent.Environment.CumulativeReward.mean": {
+            "value": 78.80202991206471,
+            "min": 73.47109068734305,
+            "max": 84.78759709043366,
+            "count": 100
+        },
+        "ParkourAgent.Environment.CumulativeReward.sum": {
+            "value": 16154.416131973267,
+            "min": 12857.440870285034,
+            "max": 25264.216493606567,
+            "count": 100
+        },
+        "ParkourAgent.Policy.ExtrinsicReward.mean": {
+            "value": 78.80202991206471,
+            "min": 73.47109068734305,
+            "max": 84.78759709043366,
+            "count": 100
+        },
+        "ParkourAgent.Policy.ExtrinsicReward.sum": {
+            "value": 16154.416131973267,
+            "min": 12857.440870285034,
+            "max": 25264.216493606567,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level7.DiedCount.mean": {
+            "value": 0.07692307692307693,
+            "min": 0.0,
+            "max": 0.75,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level7.DiedCount.sum": {
+            "value": 1.0,
+            "min": 0.0,
+            "max": 4.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level7.SurvivedCount.mean": {
+            "value": 0.9230769230769231,
+            "min": 0.25,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level7.SurvivedCount.sum": {
+            "value": 12.0,
+            "min": 1.0,
+            "max": 25.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level12.DiedCount.mean": {
+            "value": 0.46875,
+            "min": 0.12,
+            "max": 0.625,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level12.DiedCount.sum": {
+            "value": 15.0,
+            "min": 3.0,
+            "max": 20.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level12.SurvivedCount.mean": {
+            "value": 0.53125,
+            "min": 0.375,
+            "max": 0.88,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level12.SurvivedCount.sum": {
+            "value": 17.0,
+            "min": 11.0,
+            "max": 43.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level11.DiedCount.mean": {
+            "value": 0.014084507042253521,
+            "min": 0.0,
+            "max": 0.17391304347826086,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level11.DiedCount.sum": {
+            "value": 1.0,
+            "min": 0.0,
+            "max": 15.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level11.SurvivedCount.mean": {
+            "value": 0.9859154929577465,
+            "min": 0.8260869565217391,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level11.SurvivedCount.sum": {
+            "value": 70.0,
+            "min": 41.0,
+            "max": 127.0,
+            "count": 100
+        },
+        "ParkourAgent.WinDeathRatio.SurvivedCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.WinDeathRatio.SurvivedCount.sum": {
+            "value": 208.0,
+            "min": 180.0,
+            "max": 314.0,
+            "count": 100
+        },
+        "ParkourAgent.Agent.timeBonus.mean": {
+            "value": 13.650440679146694,
+            "min": 12.865515653599692,
+            "max": 15.619479874896395,
+            "count": 100
+        },
+        "ParkourAgent.Agent.timeBonus.sum": {
+            "value": 2839.291661262512,
+            "min": 2322.808337211609,
+            "max": 4904.516680717468,
+            "count": 100
+        },
+        "ParkourAgent.Agent.winReward.mean": {
+            "value": 72.97190206784468,
+            "min": 63.25690607494778,
+            "max": 78.35351198690908,
+            "count": 100
+        },
+        "ParkourAgent.Agent.winReward.sum": {
+            "value": 15178.155630111694,
+            "min": 11386.2430934906,
+            "max": 20250.936367034912,
+            "count": 100
+        },
+        "ParkourAgent.Time.WinTime_Sec.mean": {
+            "value": 4.617019213162935,
+            "min": 2.9308279517349924,
+            "max": 5.333370063844965,
+            "count": 100
+        },
+        "ParkourAgent.Time.WinTime_Sec.sum": {
+            "value": 960.3399963378906,
+            "min": 917.3399887084961,
+            "max": 1004.2198944091797,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level1.SurvivedCount.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level1.SurvivedCount.sum": {
+            "value": 28.0,
+            "min": 7.0,
+            "max": 55.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level1.DiedCount.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level1.DiedCount.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level3.DiedCount.mean": {
+            "value": 0.16666666666666666,
+            "min": 0.0,
+            "max": 0.3333333333333333,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level3.DiedCount.sum": {
+            "value": 2.0,
+            "min": 0.0,
+            "max": 3.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level3.SurvivedCount.mean": {
+            "value": 0.8333333333333334,
+            "min": 0.6666666666666666,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level3.SurvivedCount.sum": {
+            "value": 10.0,
+            "min": 6.0,
+            "max": 23.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level8.SurvivedCount.mean": {
+            "value": 1.0,
+            "min": 0.8,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level8.SurvivedCount.sum": {
+            "value": 13.0,
+            "min": 2.0,
+            "max": 26.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level8.DiedCount.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.2,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level8.DiedCount.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 2.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level5.SurvivedCount.mean": {
+            "value": 1.0,
+            "min": 0.8,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level5.SurvivedCount.sum": {
+            "value": 15.0,
+            "min": 2.0,
+            "max": 34.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level5.DiedCount.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.2,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level5.DiedCount.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 2.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level4.SurvivedCount.mean": {
+            "value": 0.8888888888888888,
+            "min": 0.7777777777777778,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level4.SurvivedCount.sum": {
+            "value": 8.0,
+            "min": 1.0,
+            "max": 24.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level4.DiedCount.mean": {
+            "value": 0.1111111111111111,
+            "min": 0.0,
+            "max": 0.2222222222222222,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level4.DiedCount.sum": {
+            "value": 1.0,
+            "min": 0.0,
+            "max": 3.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level6.DiedCount.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level6.DiedCount.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 3.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level6.SurvivedCount.mean": {
+            "value": 1.0,
+            "min": 0.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level6.SurvivedCount.sum": {
+            "value": 7.0,
+            "min": 0.0,
+            "max": 16.0,
+            "count": 100
+        },
+        "ParkourAgent.IsTraining.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.IsTraining.sum": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 100
+        },
+        "ParkourAgent.Lvls.Level9.SurvivedCount.mean": {
+            "value": 1.0,
+            "min": 0.75,
+            "max": 1.0,
+            "count": 99
+        },
+        "ParkourAgent.Lvls.Level9.SurvivedCount.sum": {
+            "value": 9.0,
+            "min": 1.0,
+            "max": 20.0,
+            "count": 99
+        },
+        "ParkourAgent.Lvls.Level9.DiedCount.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.25,
+            "count": 99
+        },
+        "ParkourAgent.Lvls.Level9.DiedCount.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 2.0,
+            "count": 99
+        },
+        "ParkourAgent.Losses.PolicyLoss.mean": {
+            "value": 0.12556527295600972,
+            "min": 0.09838832334789913,
+            "max": 0.15306770172282996,
+            "count": 39
+        },
+        "ParkourAgent.Losses.PolicyLoss.sum": {
+            "value": 0.12556527295600972,
+            "min": 0.09838832334789913,
+            "max": 0.15306770172282996,
+            "count": 39
+        },
+        "ParkourAgent.Losses.ValueLoss.mean": {
+            "value": 73.91581163406372,
+            "min": 37.76450718045235,
+            "max": 85.52699469327926,
+            "count": 39
+        },
+        "ParkourAgent.Losses.ValueLoss.sum": {
+            "value": 73.91581163406372,
+            "min": 37.76450718045235,
+            "max": 85.52699469327926,
+            "count": 39
+        },
+        "ParkourAgent.Policy.LearningRate.mean": {
+            "value": 1.0264765748443559e-07,
+            "min": 1.0264765748443559e-07,
+            "max": 4.7573761778445925e-06,
+            "count": 39
+        },
+        "ParkourAgent.Policy.LearningRate.sum": {
+            "value": 1.0264765748443559e-07,
+            "min": 1.0264765748443559e-07,
+            "max": 4.7573761778445925e-06,
+            "count": 39
+        },
+        "ParkourAgent.Policy.Epsilon.mean": {
+            "value": 0.10001215298963731,
+            "min": 0.10001215298963731,
+            "max": 0.10056378789637307,
+            "count": 39
+        },
+        "ParkourAgent.Policy.Epsilon.sum": {
+            "value": 0.10001215298963731,
+            "min": 0.10001215298963731,
+            "max": 0.10056378789637307,
+            "count": 39
+        },
+        "ParkourAgent.Policy.Beta.mean": {
+            "value": 1.972130077720015e-05,
+            "min": 1.972130077720015e-05,
+            "max": 0.00046097970777202386,
+            "count": 39
+        },
+        "ParkourAgent.Policy.Beta.sum": {
+            "value": 1.972130077720015e-05,
+            "min": 1.972130077720015e-05,
+            "max": 0.00046097970777202386,
+            "count": 39
+        }
+    },
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1750862759",
+        "python_version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\LEO\\SEB\\SEB8\\BachelorArbeit\\ParkourMLAgent\\venv\\Scripts\\mlagents-learn C:\\LEO\\SEB\\SEB8\\BachelorArbeit\\ParkourMLAgent\\config\\Automation\\GPUnewRays_LvlFix_AllLevelV3FixTagsconfig.yaml --run-id=GPUnewRays_LvlFix_AllLevelV3FixTags --env=Builds\\NewV3AllLevelDrcOcNormalx2\\ParkourMLAgent.exe --resume",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.5.1+cu121",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1750864089"
+    },
+    "total": 1330.7168044999707,
+    "count": 1,
+    "self": 0.5359305999591015,
+    "children": {
+        "run_training.setup": {
+            "total": 0.566938400035724,
+            "count": 1,
+            "self": 0.566938400035724
+        },
+        "TrainerController.start_learning": {
+            "total": 1329.613935499976,
+            "count": 1,
+            "self": 0.36031019646907225,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 12.37504459999036,
+                    "count": 1,
+                    "self": 12.37504459999036
+                },
+                "TrainerController.advance": {
+                    "total": 1316.3455331035075,
+                    "count": 7375,
+                    "self": 0.26549300277838483,
+                    "children": {
+                        "env_step": {
+                            "total": 202.04271029611118,
+                            "count": 7375,
+                            "self": 74.79874269320862,
+                            "children": {
+                                "SubprocessEnvManager._take_step": {
+                                    "total": 126.99574080156162,
+                                    "count": 27323,
+                                    "self": 3.5764004035736434,
+                                    "children": {
+                                        "TorchPolicy.evaluate": {
+                                            "total": 123.41934039798798,
+                                            "count": 13013,
+                                            "self": 123.41934039798798
+                                        }
+                                    }
+                                },
+                                "workers": {
+                                    "total": 0.2482268013409339,
+                                    "count": 7375,
+                                    "self": 0.0,
+                                    "children": {
+                                        "worker_root": {
+                                            "total": 9231.080805796897,
+                                            "count": 27320,
+                                            "is_parallel": true,
+                                            "self": 8196.295681491436,
+                                            "children": {
+                                                "steps_from_proto": {
+                                                    "total": 0.09263589995680377,
+                                                    "count": 7,
+                                                    "is_parallel": true,
+                                                    "self": 0.005816099874209613,
+                                                    "children": {
+                                                        "_process_rank_one_or_two_observation": {
+                                                            "total": 0.08681980008259416,
+                                                            "count": 196,
+                                                            "is_parallel": true,
+                                                            "self": 0.08681980008259416
+                                                        }
+                                                    }
+                                                },
+                                                "UnityEnvironment.step": {
+                                                    "total": 1034.6924884055043,
+                                                    "count": 27320,
+                                                    "is_parallel": true,
+                                                    "self": 65.4190798055497,
+                                                    "children": {
+                                                        "UnityEnvironment._generate_step_input": {
+                                                            "total": 17.13134499877924,
+                                                            "count": 27320,
+                                                            "is_parallel": true,
+                                                            "self": 17.13134499877924
+                                                        },
+                                                        "communicator.exchange": {
+                                                            "total": 795.9844009003136,
+                                                            "count": 27320,
+                                                            "is_parallel": true,
+                                                            "self": 795.9844009003136
+                                                        },
+                                                        "steps_from_proto": {
+                                                            "total": 156.1576627008617,
+                                                            "count": 27320,
+                                                            "is_parallel": true,
+                                                            "self": 9.900727898871992,
+                                                            "children": {
+                                                                "_process_rank_one_or_two_observation": {
+                                                                    "total": 146.2569348019897,
+                                                                    "count": 764960,
+                                                                    "is_parallel": true,
+                                                                    "self": 146.2569348019897
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "trainer_advance": {
+                            "total": 1114.037329804618,
+                            "count": 7375,
+                            "self": 1.1743293074541725,
+                            "children": {
+                                "process_trajectory": {
+                                    "total": 837.8360714973533,
+                                    "count": 7375,
+                                    "self": 836.2380179973552,
+                                    "children": {
+                                        "RLTrainer._checkpoint": {
+                                            "total": 1.5980534999980591,
+                                            "count": 2,
+                                            "self": 1.5980534999980591
+                                        }
+                                    }
+                                },
+                                "_update_policy": {
+                                    "total": 275.0269289998105,
+                                    "count": 39,
+                                    "self": 59.003762301348615,
+                                    "children": {
+                                        "TorchPPOOptimizer.update": {
+                                            "total": 216.02316669846186,
+                                            "count": 3120,
+                                            "self": 216.02316669846186
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "trainer_threads": {
+                    "total": 1.200009137392044e-06,
+                    "count": 1,
+                    "self": 1.200009137392044e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 0.5330463999998756,
+                    "count": 1,
+                    "self": 0.013508000003639609,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.519538399996236,
+                            "count": 1,
+                            "self": 0.519538399996236
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
