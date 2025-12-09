@@ -29,8 +29,9 @@ Das Readme selbst stellt eine kurze, kompakte Zusammenfassung der schriflichten 
 ## ${\textrm{\color{red}2. Demo-Build starten}}$
 
 1. **Passenden Build auf der GitHub-Release-Seite herunterladen**  
-   - Wechsle im Repository auf den Reiter **"Releases"**.  
+   - Wechsle im Repository auf den Reiter **[Releases](https://github.com/062Leo/Bachelorarbeit-Demo/releases)**  .  
    - Wähle den Build für dein Betriebssystem: **Windows**, **Linux** oder **macOS**.
+   
 
 2. **Archiv entpacken**  
    - Das heruntergeladene ZIP/Archiv in einen beliebigen Ordner entpacken.
