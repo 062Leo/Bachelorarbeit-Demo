@@ -1,10 +1,6 @@
 # ${\textrm{\color{green}Bachelorarbeit-Demo}}$
 
-Dieses Repository enthält eine ${\textrm{\color{orange}aufbereitete Demo-Version}}$ des Unity-Projekts, das meine Bachelorarbeit zum Thema $\textrm{\color{orange}Reinforcement Learning}$ in Unity begleitet. Es dient als kompakte, exemplarische Darstellung der wichtigsten Bestandteile. 
-
-⚠️Hinweis: Im Vergleich zur Originalversion der Bachelorarbeit wurden größere Teile des ursprünglichen Codes und einige Komponenten entfernt und abgeändert. 
-
-Das Readme selbst stellt eine kurze, kompakte Zusammenfassung der schriflichten Bachelorarbeit dar.
+Kompakte Zusammenfassung der schriflichten Bachelorarbeit:
 
 
 ## ${\textrm{\color{red}1. Titel und Kurzbeschreibung }}$
