@@ -11,9 +11,6 @@ Das Readme selbst stellt eine kurze, kompakte Zusammenfassung der schriflichten 
 - **[Bachelorarbeit.md](Bachelorarbeit.md)**  
   Kompakte, textuelle Zusammenfassung der schriflichten Bachelorarbeit.
 
-- **[Builds](Builds/)**  
-  Enthält vorbereitete Demo-Builds (z. B. für Windows), mit denen die Anwendung ohne Unity gestartet werden kann.
-
 - **[Dokumente](Dokumente/)**  
   Enthält ergänzende Dokumente wie Installations- und Trainingsanleitungen sowie weitere Materialien zur Bachelorarbeit.
   - [How_To_Train.md](Dokumente/How_To_Train.md)
