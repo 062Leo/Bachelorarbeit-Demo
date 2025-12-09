@@ -7,10 +7,10 @@ import datetime
 yaml = YAML()
 
 
-WORK_DIR = r"C:\LEO\SEB\SEB8\BachelorArbeit\ParkourMLAgent"
-ENV_PATH = r'Builds\NewV3AllLevelDrcOcNormalx2\ParkourMLAgent.exe'
-RUN_ID = "Skript_Showcase"
-BASED_ON_ID = "" 
+WORK_DIR = r"<path>"
+ENV_PATH = r'Builds\<path>\<name>.exe'
+RUN_ID = "<name>"
+BASED_ON_ID = "<name>" 
 
 MAX_TOTAL_STEPS = 1_000_000_000
 STEP_INCREMENT = 1_000_000
@@ -156,11 +156,6 @@ if __name__ == "__main__":
     main()
 
 
-
+#  How to use:
 #  venv\Scripts\activate
-
-#  tensorboard --logdir results
-#  python new_automation.py
 #  python Training_Automation.py
-
-
