@@ -1,6 +1,6 @@
 # ${\textrm{\color{green}Bachelorarbeit-Demo}}$
 
-Dieses Repository enthält eine ${\textrm{\color{orange}aufbereitete Demo-Version}}$ des Unity-Projekts, das meine Bachelorarbeit zum Thema $\textrm{\color{orange}Reinforcement Learning}$ in Unity begleitet. Es dient als kompakte, exemplarische Darstellung der wichtigsten Bestandteile.
+Dieses Repository enthält eine ${\textrm{\color{orange}aufbereitete Demo-Version}}$ des Unity-Projekts, das meine Bachelorarbeit zum Thema Reinforcement Learning in Unity begleitet. Es dient als kompakte, exemplarische Darstellung der wichtigsten Bestandteile.
 
 ⚠️Hinweis: Im Vergleich zur Originalversion der Bachelorarbeit wurden größere Teile des ursprünglichen Codes und einige Komponenten entfernt oder vereinfacht. Die Demo konzentriert sich auf die wesentlichen Mechaniken des trainierten ML-Agenten und wurde um ein Menü und UI erweitert.
 
@@ -20,7 +20,7 @@ Das Readme selbst stellt eine kurze, kompakte Zusammenfassung der schriflichten 
   Unity-Assets, Szenen, Skripte und Prefabs des Demo-Projekts.
 
 - **[config](config/)**  
-  Konfigurationsdateien für das Training mit dem Unity ${\textrm{\color{orange}ML-Agents Toolkit}}$ (z. B. YAML-Configs).
+  Konfigurationsdateien für das Training mit dem Unity ML-Agents Toolkit (z. B. YAML-Configs).
 
 - **[results](results/)**  
   Trainingsergebnisse, Log-Dateien und TensorBoard-Daten der verschiedenen Trainingsläufe.
@@ -49,7 +49,7 @@ Das Readme selbst stellt eine kurze, kompakte Zusammenfassung der schriflichten 
 
 ### ${\textrm{\color{lightgreen}3.2 Steuerung im "Watch AI"-Modus}}$
 
-- Der trainierte ${\textrm{\color{orange}ML-Agent}}$ steuert die Spielfigur vollständig autonom.
+- Der trainierte ML-Agent steuert die Spielfigur vollständig autonom.
 - Du beobachtest, wie der Agent die Parkour-Level absolviert, Hindernissen ausweicht und Checkpoints bzw. Ziele erreicht.
 - Dieser Modus dient vor allem zur **Demonstration des erlernten Verhaltens** und zur qualitativen Bewertung der Agentenleistung.
 
