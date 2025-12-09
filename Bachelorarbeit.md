@@ -1,6 +1,11 @@
-# ${\textrm{\color{green}Training und Evaluation eines ML-Agenten in Unity}}$
+# ${\textrm{\color{green}Bachelorarbeit-Demo}}$
 
-Dieses Repository begleitet die Bachelorarbeit zum Thema ${\textrm{\color{orange}Reinforcement Learning}}$ in Unity und enthält das vollständige Projekt mit Trainingsumgebung, Agentenlogik, Konfigurationsdateien und Ergebnissen.
+Dieses Repository enthält eine ${\textrm{\color{orange}aufbereitete Demo-Version}}$ des Unity-Projekts, das meine Bachelorarbeit zum Thema $\textrm{\color{orange}Reinforcement Learning}$ in Unity begleitet. Es dient als kompakte, exemplarische Darstellung der wichtigsten Bestandteile. 
+
+⚠️Hinweis: Im Vergleich zur Originalversion der Bachelorarbeit wurden größere Teile des ursprünglichen Codes und einige Komponenten entfernt und abgeändert. 
+
+Das Readme selbst stellt eine kurze, kompakte Zusammenfassung der schriflichten Bachelorarbeit dar.
+
 
 ## ${\textrm{\color{red}1. Titel und Kurzbeschreibung }}$
 
@@ -8,22 +13,22 @@ Dieses Repository begleitet die Bachelorarbeit zum Thema ${\textrm{\color{orange
   "Training und Evaluation eines ${\textrm{\color{orange}ML-Agenten}}$ zur Überwindung dynamischer Hindernisse und zur Lösung einfacher interaktiver Rätsel in Unity"
 
 - **Motivation**  
-  Die Arbeit verbindet Spielentwicklung mit maschinellem Lernen. Im Mittelpunkt steht ein ${\textrm{\color{orange}ML-Agent}}$ in Unity, der verschiedene dreidimensionale Parkourszenarien bewältigen soll. Ziel ist es, nicht nur vorprogrammierte Abläufe zu nutzen, sondern einen Agenten zu entwickeln, der durch eigenes Lernen komplexe Herausforderungen meistert und so praktische Einblicke in ${\textrm{\color{orange}Reinforcement Learning}}$ in interaktiven Umgebungen liefert.
+  Traditionell manuell programmierte KI-Systeme, wie sie in modernen Computerspielen eingesetzt werden, stoßen schnell an ihre Grenzen, da sie in starren Handlungsmustern verharren und kaum flexibel auf neue Situationen reagieren. ${\textrm{\color{orange}Reinforcement Learning (RL)}}$  bietet dagegen das Potenzial, Agenten zu entwickeln, die durch Versuch und Irrtum selbstständig robuste und anpassungsfähige Strategien erlernen.
 
 - **Problemstellung**  
   Klassische, manuell programmierte KI-Systeme in Spielen stoßen an Grenzen: Sie reagieren oft unflexibel auf unvorhergesehene Situationen und verallgemeinern schlecht auf neue Level. ${\textrm{\color{orange}Reinforcement Learning}}$ bietet zwar die Möglichkeit, Strategien durch Versuch und Irrtum zu erlernen, jedoch tendieren Agenten häufig dazu, nur spezifische Trainingsszenarien zu lösen, ohne ihr Verhalten auf neue Situationen übertragen zu können. Gleichzeitig kann eine zu große Vielfalt an Trainingsdaten den Lernprozess ineffizient oder instabil machen.
 
 - **Zielsetzung**  
-  Ziel der Arbeit ist die Entwicklung eines robusten ${\textrm{\color{orange}ML-Agenten}}$, der verschiedene dreidimensionale Parkour-Level mit hoher Erfolgsrate absolvieren kann. Untersucht wird insbesondere, wie Trainingsstrategien gestaltet sein müssen, damit der Agent nicht nur in bekannten Umgebungen stabil performt, sondern auch generalisierungsfähige Verhaltensweisen lernt, um neue Level mit dynamischen Hindernissen erfolgreich zu bewältigen.
+  Ziel der Arbeit ist die Entwicklung eines robusten ${\textrm{\color{orange}ML-Agenten}}$, der verschiedene dreidimensionale Parkour-Level mit hoher Erfolgsrate absolvieren kann. Untersucht wird insbesondere, wie Trainingsstrategien gestaltet sein müssen, damit der Agent nicht nur in bekannten Umgebungen stabil performt, sondern auch generalisierungsfähige Verhaltensweisen lernt, um neue Level, die nicht teil des Trainings waren,  erfolgreich zu bewältigen.
 
 ## ${\textrm{\color{red}2. Technische Anforderungen}}$
 
 
 - **Game Engine und Tooling**
-  - Unity-Engine: $\color{pink}\textrm{2022.3.29f1}$
-  - Unity ${\textrm{\color{orange}ML-Agents Toolkit}}:\color{pink}\textrm{2.0.1}$
-  - Programmiersprache in Unity: C# (Agentenlogik, Umgebung, Episodensteuerung)
-  - Code-Editor: **Visual Studio Community 2022**, Versionen $\color{pink}\textrm{17.13.5 bis 17.14.19}$
+  - **Unity-Engine:** Original: $\color{pink}\textrm{2022.3.29f1}$, Demo: $\color{pink}\textrm{6000.2.7f2}$
+  - **Unity** ${\textrm{\color{orange}ML-Agents Toolkit}}: \color{pink}\textrm{2.0.1}$
+  - **Programmiersprachen:** C# (Unity), Python (Automatisierung Skripte)
+  - **Code-Editor:** **Visual Studio Community 2022**, Versionen $\color{pink}\textrm{17.13.5 bis 17.14.19}$
 
 - **Python-Umgebung**
   - Python: $\color{pink}\textrm{3.10.11}$
@@ -221,7 +226,7 @@ Dieses Repository begleitet die Bachelorarbeit zum Thema ${\textrm{\color{orange
 - In **Trainingsstrategie 6** (variantenbasierter Levelaufbau):
   - Ein Build enthält alle Level und Varianten.
   - Insgesamt $\color{pink}\textrm{31}$ unterschiedliche Parkours (13 Level + Varianten).
-  - Manche Level (1, 2, 3, 10–13) ohne Varianten werden mehrfach integriert, sodass die Zahl der Parkours auf $\color{pink}\textrm{78 (13 × 6)}$ erhöht wird, um eine gleichmäßige Verteilung zu erreichen.
+  - Manche Level (1, 2, 3, 10–13) ohne Varianten werden mehrfach integriert, sodass die Zahl der Parkours im Build auf $\color{pink}\textrm{78 (13 × 6)}$ pro Build erhöht wird, um eine gleichmäßige Verteilung zu erreichen.
 
 ## ${\textrm{\color{red}5. Trainingsstrategien und Hyperparameter }}$
 
@@ -300,9 +305,8 @@ Dieses Repository begleitet die Bachelorarbeit zum Thema ${\textrm{\color{orange
 
 ### ${\textrm{\color{lightgreen}5.4 Eigene Automatisierungslösung }}$
 
-- **Motivation und Problem**
-  - Bessere Ergebnisse bei vielen kürzeren Trainingsläufen (z. B. 20 × 1 Mio. Schritte) anstatt eines Laufes über 20 Mio. Schritte.
-  - Standardmäßige automatische Reduktion von `learning_rate`, `beta` und `epsilon` bei vielen Neustarts führt zu zu schneller Absenkung der Hyperparameter.
+- **Motivation:** Beim Training zeigte sich: Mehrere kurze Trainingsiterationen (z. B. 20×1 Mio. Schritte) liefern bessere Ergebnisse als ein langer Lauf.
+- **Prolem:** Der PPO-Algorithmus reduziert `learning_rate`, `beta` und `epsilon` automatisch. Durch häufige Neustarts in segmentierten Trainingsläufen sanken diese Werte zu schnell, was das spätere Lernen negativ beeinflusste. → Manuelle Nachjustierung nötig.
 
 - **Lösung: Python-Automatisierungsskript**
   - Automatisiert den gesamten Trainingsprozess, inklusive dynamischer Anpassung von `learning_rate`, `beta` und `epsilon` abhängig von der Gesamtzahl absolvierte Schritte:
@@ -313,10 +317,17 @@ Dieses Repository begleitet die Bachelorarbeit zum Thema ${\textrm{\color{orange
   - Nahtlose Fortsetzung von Trainingsphasen auf Basis vorheriger Modelle.
   - Umfassendes Logging (Parameteränderungen mit Zeitstempel).
 
-- **Manuelle Konfiguration vor Skriptstart (Auszug)**
+- **Manuelle Konfiguration vor Skriptstart**
   - Steuerungsparameter: `first_run`, `continue_training`, `based_on`
   - Pfade: `WORK_DIR`, `ENV_PATH`, `RUN_ID`, `BASED_ON_ID`, `LOG_DIR`, `CONFIG_FILE` etc.
   - Trainingsparameter: `MAX_TOTAL_STEPS`, `STEP_INCREMENT`, `LR_INCREMENT` sowie konkrete Anpassungsregeln für `learning_rate`, `beta`, `epsilon`.
+
+- **Vorteile der Automatisierung**
+  - Keine manuellen Eingriffe während langer Traininsläufe
+  - Einheitliche, nachvollziehbare Hyperparameterentwicklung
+  - Weniger Fehler durch manuelle Bedienung
+  - Ermöglicht unbeaufsichtigtes Langzeittraining
+  - Vollständige Dokumentation aller Änderungen
 
 ### ${\textrm{\color{lightgreen}5.5 Trainingsablauf und TensorBoard}}$
 
