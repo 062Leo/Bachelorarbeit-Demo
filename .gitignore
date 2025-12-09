@@ -130,7 +130,7 @@ env/
 venv/
 venvBackup/
 ENV/
-build/
+Builds/
 develop-eggs/
 dist/
 downloads/
