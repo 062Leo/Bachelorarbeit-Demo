@@ -26,7 +26,7 @@ Das Readme selbst stellt eine kurze, kompakte Zusammenfassung der schriflichten 
   Trainingsergebnisse, Log-Dateien und TensorBoard-Daten der verschiedenen Trainingsläufe.
 
 
-## ${\textrm{\color{red}2. Demo-Build starten (ohne Unity)}}$
+## ${\textrm{\color{red}2. Demo-Build starten}}$
 
 1. **Passenden Build auf der GitHub-Release-Seite herunterladen**  
    - Wechsle im Repository auf den Reiter **"Releases"**.  
